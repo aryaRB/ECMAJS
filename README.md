@@ -1,2 +1,2 @@
 # ECMAJS
-practice solution based on JavaScript
+practice solution based on JavaScript with links
